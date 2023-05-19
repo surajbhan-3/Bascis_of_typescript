@@ -1,1 +1,0 @@
-# Bascis_of_typescript
