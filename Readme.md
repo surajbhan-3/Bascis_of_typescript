@@ -41,5 +41,36 @@
         typescript ===> javascript
 
  *  Typescript enables developers to add type saftey to their projects 
- 
-        
+
+
+###  Advanced type in typescript
+
+*  Enum     
+    
+
+*  keyof     
+*  typeof    
+*  Tuple
+*  Generics
+*  Interface
+*  Class 
+*  Inheritance 
+*  Configuration
+       
+        initilize the typescritp
+        :--  tsc --init
+           it will create a tsconfig.json file
+
+             under it 
+                        {
+               "compilerOptions": {
+                 "target":"ES6" // using EchmaScript 6 if we use es 6  s
+                  so that code conversions happens according to es6
+                  "outDir":"dist" // after complitation the output goes into the dist folder. all the ts file conversion into js file and the js file will stored inside the dist folder    
+               }, // compiler options are the configuration  that you want to  validate for certain given points
+                "include": ["src/**/*.ts"],  // include indicates the file  the file that you wannt to include so here we can include all the files having extenstion of .ts inside our src folder 
+                "exclude": ["node_modules"] // In this the ndoe mudles will be neede during compilation 
+                         }
+     
+
+
