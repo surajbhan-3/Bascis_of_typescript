@@ -36,4 +36,10 @@
 
 
 
- *         
+ *   one can also run tsc src/filename.ts its also transpile
+ *   transpliler  compile  code ===> code 
+        typescript ===> javascript
+
+ *  Typescript enables developers to add type saftey to their projects 
+ 
+        

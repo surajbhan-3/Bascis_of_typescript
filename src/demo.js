@@ -12,4 +12,5 @@ c = false; // correct way
 var d = null;
 d = "Great things ahead";
 d = null;
-d = "Great things ";
+d = "Great things";
+// any -?

@@ -24,7 +24,7 @@ let  b: number=343;
  
   d= "Great things ahead";
   d= null;
-  d= "Great things "
+  d= "Great things"
 
-
+  // any -?
 
