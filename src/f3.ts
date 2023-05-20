@@ -15,8 +15,8 @@ user.name= "bhan"
 // object litereal
 
 
-// Record is used where we want same datatypes juskt  like in k we stored key as   a string and value as a booleaan so record is usused 
-let ques: Record <string, boolean>={
+// Record is used where we want same datatypes juskt  like in k we stored key as   a string and value as a boolean so record is usused 
+let ques: Record <string, boolean> = {
     isMarried:false,
     isEmplayeed:true,
     isIndian:true,
